@@ -8,7 +8,7 @@
 
 ---
 
-﻿ ## 🛠️ Technical Stack
+﻿### 🛠️ Technical Stack
 
  **Programming:** Python (Pandas, NumPy, Scikit-learn) | SQL (CTEs, Window Functions, Joins) | R
 
@@ -19,7 +19,7 @@ Forest | Clustering | PCA
 
  **Tools & Environments:** Git/GitHub | Jupyter Notebooks | VS Code | Google Colab
 
-## 📂 Featured Projects
+### 📂 Featured Projects
 
 * [**Argentina Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg):
 
@@ -29,12 +29,12 @@ Forest | Clustering | PCA
  real estate insights.
  <br><br/>
 
-## 💡 What I'm Looking For
-- Entry-level Data Analyst / Junior Data Scientist positions
-﻿- Internships or contract work in data-driven organizations
+###💡 What I'm Looking For
+* Entry-level Data Analyst / Junior Data Scientist positions
+* Internships or contract work in data-driven organizations
 
 ---
 
-﻿## 📫 Let’s Connect!
-- **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
-- **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)
+### 📫 Let’s Connect!
+* **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
+* **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)

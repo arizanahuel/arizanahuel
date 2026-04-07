@@ -17,7 +17,8 @@ I turn data into strategic decisions through rigorous analysis and creative, act
 
 ### 🚀 Featured Projects
 
-*   **[Argetine Real Estate Analysis]([https://github.com/ariza-nahuel/department-rent-analysis.git](https://github.com/ariza-nahuel/housing-rent-analytics-arg/tree/main#)):** End-to-end data project involving web scraping and EDA of rental prices in Argentina.
+* **Argentine Real Estate Analysis** [![Ver en GitHub](https://img.shields.io/badge/GitHub-View_Project-181717?style=flat&logo=github)](https://github.com/arizanahuel/housing-rent-analytics-arg)
+  End-to-end data project involving web scraping and EDA of rental prices in Argentina.
 
 ---
 

@@ -8,14 +8,16 @@ I turn data into strategic decisions through rigorous analysis and creative, act
 
 ### 🛠️ Technical Stack
 
-*   **Programming & Databases:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R.
-*   **Data Visualization:** Power BI, Matplotlib, Seaborn.
-*   **Tools & Environment:** Git, Advanced Excel (VBA).
-*   **Domain Expertise:** Actuarial Mathematics, Financial Risk, Insurance Operations.
+*   **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn), SQL (CTEs, Window Functions, Joins), R.
+*   **Data Analysis & Statistics:** Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Actuarial Risk Analysis.
+*   **Machine Learning:** Linear & Logistic Regression, XGBoost, Random Forest, Clustering, PCA.
+*   **Business Intelligence (BI):** Power BI (DAX, Power Query), Looker Studio, Tableau, Excel (VBA/Macros).
+*   **Data Visualization:** Matplotlib, Seaborn, Plotly.
+*   **Tools:** VS Code, Git/GitHub, Jupyter Notebooks, Google Colab.
 
 ### 🚀 Featured Projects
 
-*   **[Argentine Real Estate Analysis]((https://github.com/ariza-nahuel/department-rent-analysis.git)):** End-to-end data project involving web scraping and EDA of rental prices in Argentina.
+*   **[Argetine Real Estate Analysis]([https://github.com/ariza-nahuel/department-rent-analysis.git](https://github.com/ariza-nahuel/housing-rent-analytics-arg/tree/main#)):** End-to-end data project involving web scraping and EDA of rental prices in Argentina.
 
 ---
 

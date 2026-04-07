@@ -2,25 +2,37 @@
 
 **Data Scientist in Training | Actuarial Science Student @ UBA**
 
-I turn data into strategic decisions through rigorous analysis and creative, actionable solutions. With a decade of experience in the healthcare insurance sector, I bridge the gap between business management and statistical modeling.
+﻿I turn data into strategic decisions through rigorous analysis and actionable solutions.
+ Healthcare insurance professional transitioning into data science with a strong foundation
+ in statistical modeling and business analytics.
 
 ---
 
-### 🛠️ Technical Stack
+﻿ ### 🛠️ Technical Stack
 
-*   **Programming & Databases:** Python (Pandas, NumPy, Scikit-learn), SQL (CTEs, Window Functions, Joins), R.
-*   **Data Analysis & Statistics:** Exploratory Data Analysis (EDA), Hypothesis Testing, A/B Testing, Actuarial Risk Analysis.
-*   **Machine Learning:** Linear & Logistic Regression, XGBoost, Random Forest, Clustering, PCA.
-*   **Business Intelligence (BI):** Power BI (DAX, Power Query), Looker Studio, Tableau, Excel (VBA/Macros).
-*   **Data Visualization:** Matplotlib, Seaborn, Plotly.
-*   **Tools:** VS Code, Git/GitHub, Jupyter Notebooks, Google Colab.
+ **Programming:** Python (Pandas, NumPy, Scikit-learn) | SQL (CTEs, Window Functions, Joins) | R
+
+ **Data Analysis & ML:** EDA | Hypothesis Testing | A/B Testing | Linear/Logistic Regression | XGBoost | Random
+Forest | Clustering | PCA
+
+ **Data Visualization:** Power BI (DAX, Power Query) | Tableau | Looker Studio | Matplotlib | Seaborn | Plotly
+
+ **Tools & Environments:** Git/GitHub | Jupyter Notebooks | VS Code | Google Colab
 
 ### 🚀 Featured Projects
 
-* [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg): End-to-end data project involving web scraping and EDA of rental prices in Buenos Aires City (CABA) and its metropolitan area (suburbs).
+* [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg):
+**Summary:** ﻿Comprehensive analysis of the apartment rental market in Buenos Aires (CABA) and surrounding areas.
+ Identified price trends across neighborhoods, expense-to-income correlations, and demand patterns.
+ Developed an end-to-end data pipeline from web scraping to interactive visualizations for strategic
+ real estate insights.
+
+﻿### 💡 What I'm Looking For
+- Entry-level Data Analyst / Junior Data Scientist positions
+﻿- Internships or contract work in data-driven organizations
 
 ---
 
-### 📧 Contact & Networking
-*   **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/nahuariza)
-*   **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)
+﻿ ### 📧 Let's Connect!
+ - **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
+ - **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)

@@ -21,7 +21,7 @@ Forest | Clustering | PCA
 
 ## 📂 Featured Projects
 
-* [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg):
+* [**Argentina Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg):
 
 **Summary:** ﻿Comprehensive analysis of the apartment rental market in Buenos Aires (CABA) and surrounding areas.
  Identified price trends across neighborhoods, expense-to-income correlations, and demand patterns.
@@ -29,12 +29,12 @@ Forest | Clustering | PCA
  real estate insights.
  <br><br/>
 
-﻿## 💡 What I'm Looking For
+## 💡 What I'm Looking For
 - Entry-level Data Analyst / Junior Data Scientist positions
 ﻿- Internships or contract work in data-driven organizations
 
 ---
 
-﻿ ## 📫 Let’s Connect!
- - **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
- - **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)
+﻿## 📫 Let’s Connect!
+- **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
+- **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)

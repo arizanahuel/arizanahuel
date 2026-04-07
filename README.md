@@ -17,7 +17,7 @@ I turn data into strategic decisions through rigorous analysis and creative, act
 
 ### 🚀 Featured Projects
 
-* [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg): Proyecto de análisis de datos (end-to-end) que incluye web scraping y un análisis exploratorio (EDA) de los precios de alquiler en Argentina.
+* [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg): End-to-end data project involving web scraping and EDA of rental prices in Buenos Aires City (CABA) and its metropolitan area (suburbs).
 
 ---
 

@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Nahuel 👋
 
-<!--
-**ariza-nahuel/ariza-nahuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data Scientist in Training | Actuarial Science Student @ UBA**
 
-Here are some ideas to get you started:
+I turn data into strategic decisions through rigorous analysis and creative, actionable solutions. With a decade of experience in the healthcare insurance sector, I bridge the gap between business management and statistical modeling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Technical Stack
+
+*   **Programming & Databases:** Python (Pandas, NumPy, Scikit-Learn), SQL (PostgreSQL, MySQL), R.
+*   **Data Visualization:** Power BI, Matplotlib, Seaborn.
+*   **Tools & Environment:** Git, Advanced Excel (VBA).
+*   **Domain Expertise:** Actuarial Mathematics, Financial Risk, Insurance Operations.
+
+### 🚀 Featured Projects
+
+*   **[Argentine Real Estate Analysis]((https://github.com/ariza-nahuel/department-rent-analysis.git)):** End-to-end data project involving web scraping and EDA of rental prices in Argentina.
+
+---
+
+### 📧 Contact & Networking
+*   **LinkedIn:** [linkedin.com/in/tu-perfil](https://linkedin.com/in/nahuariza)
+*   **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)

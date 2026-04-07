@@ -8,7 +8,7 @@
 
 ---
 
-﻿ ### 🛠️ Technical Stack
+﻿ ## 🛠️ Technical Stack
 
  **Programming:** Python (Pandas, NumPy, Scikit-learn) | SQL (CTEs, Window Functions, Joins) | R
 
@@ -19,20 +19,22 @@ Forest | Clustering | PCA
 
  **Tools & Environments:** Git/GitHub | Jupyter Notebooks | VS Code | Google Colab
 
-### 🚀 Featured Projects
+## 📂 Featured Projects
 
 * [**Argentine Real Estate Analysis**](https://github.com/arizanahuel/housing-rent-analytics-arg):
+
 **Summary:** ﻿Comprehensive analysis of the apartment rental market in Buenos Aires (CABA) and surrounding areas.
  Identified price trends across neighborhoods, expense-to-income correlations, and demand patterns.
  Developed an end-to-end data pipeline from web scraping to interactive visualizations for strategic
  real estate insights.
+ <br><br/>
 
-﻿### 💡 What I'm Looking For
+﻿## 💡 What I'm Looking For
 - Entry-level Data Analyst / Junior Data Scientist positions
 ﻿- Internships or contract work in data-driven organizations
 
 ---
 
-﻿ ### 📧 Let's Connect!
+﻿ ## 📫 Let’s Connect!
  - **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
  - **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)

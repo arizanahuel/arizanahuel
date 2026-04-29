@@ -1,46 +1,42 @@
-﻿# Hi, I'm Nahuel 👋
+# Hi, I'm Nahuel 👋
 
- **Data Scientist in Training | Actuarial Science Student @ UBA**
+**Data Analyst | Actuarial Science Student @ UBA**
 
- I turn data into strategic decisions through rigorous analysis and actionable solutions.
- Healthcare insurance professional transitioning into data science with a strong foundation
- in statistical modeling and business analytics.
+Transitioning from healthcare administration into data analytics. I build end-to-end pipelines in Python and SQL and turn them into dashboards that support real decisions. Currently expanding into predictive modeling through my actuarial coursework.
 
- ---
+---
 
- ### 🛠️ Technical Stack
+### 🛠️ Technical Stack
 
- **Programming:** Python (Pandas, NumPy, Scikit-learn) | SQL (CTEs, Window Functions, Joins) | R
+**Languages:** Python (Pandas, NumPy, Matplotlib, Plotly) | SQL (CTEs, Window Functions, Joins) | R (Tidyverse, ggplot2)
 
- **Data Analysis & ML:** EDA | Hypothesis Testing | A/B Testing | Linear/Logistic Regression | XGBoost | Random
-Forest | Clustering | PCA
+**Analytics & Modeling:** Exploratory Data Analysis | Statistical Inference | Linear & Logistic Regression
 
- **Data Visualization:** Power BI (DAX, Power Query) | Tableau | Looker Studio | Matplotlib | Seaborn | Plotly
+**Visualization & Reporting:** Power BI (DAX, Power Query) | Microsoft Excel Advanced
 
- **Tools & Environments:** Git/GitHub | Jupyter Notebooks | VS Code | Google Colab
+**Tools:** Git / GitHub | Jupyter Notebooks | VS Code | Google Colab
 
- ---
+---
 
- ### 📂 Featured Projects
+### 📂 Featured Projects
 
- **[Argentina Real Estate Analysis](https://github.com/arizanahuel/housing-rent-analytics-arg)**
+**[Housing Rent Analytics ARG](https://github.com/arizanahuel/housing-rent-analytics-arg)**
+End-to-end analysis of the residential rental market in Buenos Aires (CABA) and Greater Buenos Aires. Scraped 10+ locations from Argenprop, built a full SQL cleaning pipeline, and developed interactive Power BI dashboards with geospatial visualizations. Key finding: property size explains 59% of rental price variance (R² = 0.59, R = 0.77).
 
- Comprehensive analysis of the apartment rental market in Buenos Aires (CABA) and surrounding areas. Identified
-price trends across neighborhoods, expense-to-income correlations, and demand patterns. Developed an end-to-end data
- pipeline from web scraping to interactive visualizations for strategic real estate insights.
+- **Stack:** Python · SQL · Power BI · Pandas
 
- - **Tech Stack:** Python (Web Scraping) | SQL (ETL) | Power BI | Pandas
+---
 
- ---
+### 🎓 Background
 
- ### 💡 What I'm Looking For
+- **Actuarial Science** — Universidad de Buenos Aires *(60% completed)*
+  Coursework in probability, mathematical statistics, financial mathematics, and actuarial modeling.
+- **Google Data Analytics Professional Certificate** — Coursera (2024)
+- **SQL Associate** — DataCamp (2024)
 
- - Entry-level Data Analyst / Junior Data Scientist positions
- - Internships or contract work in data-driven organizations
+---
 
- ---
+### 📫 Let's Connect
 
- ### 📫 Let's Connect!
-
- - **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
- - **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)
+- **LinkedIn:** [linkedin.com/in/nahuariza](https://linkedin.com/in/nahuariza)
+- **Email:** [nahuelariza03@gmail.com](mailto:nahuelariza03@gmail.com)
